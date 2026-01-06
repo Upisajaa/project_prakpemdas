@@ -1,0 +1,8 @@
+
+{
+  "name": "FloraGuard Pi-Monitor",
+  "description": "Sistem monitoring tanaman cerdas berbasis Raspberry Pi dengan sensor DHT11 dan Kelembapan Tanah, dilengkapi dengan analisis AI Gemini untuk kesehatan tanaman.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
